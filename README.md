@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rizqihilman
-- 👀 I’m interested in  UI/UX Design dan Data Analys
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Python & R Programming
+- 📫 How to reach me rizqihilmanriyadi@gmail.com
 
 <!---
 rizqihilman/rizqihilman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
