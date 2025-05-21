@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizqihilman
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Python & R Programming
+- 👀 I’m interested in Data Analyst and Quality Assurance
+- 🌱 I’m currently learning Automation Test
 - 📫 How to reach me rizqihilmanriyadi@gmail.com
 
 <!---
