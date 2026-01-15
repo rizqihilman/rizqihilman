@@ -1,4 +1,4 @@
-Hi 👋, I'm Moh Rizqi Hilman Riyadi!
+# Hi 👋, I'm Moh Rizqi Hilman Riyadi!
 
 I am a Quality Assurance (QA) Engineer with 2+ years of experience in manual and automated testing of web applications, APIs, and enterprise systems. I have a strong background in requirement analysis, test planning, execution, and defect tracking, ensuring high-quality and reliable software delivery. ✨
 
@@ -43,7 +43,7 @@ Enhancing end-to-end automation using `Playwright`.
 Learning CI/CD integration for automated testing.  
 Exploring OWASP-based security testing practices.
 
-💌 Let's Connect
+## Let's Connect
 Ask me about Quality Assurance — I’m happy to share insights and experience!  
 - 💼 LinkedIn: https://www.linkedin.com/in/rizqihilman/
 - ✍️ Medium: https://medium.com/@rizqihilmanriyadi
