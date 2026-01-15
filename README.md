@@ -1,119 +1,50 @@
-# 👋 Hi, I'm Moh Rizqi Hilman Riyadi
+Hi 👋, I'm Moh Rizqi Hilman Riyadi!
 
-🧪 **Quality Assurance Engineer** with 2+ years of experience in software testing  
-📍 Bandung, Indonesia  
+I am a Quality Assurance (QA) Engineer with 2+ years of experience in manual and automated testing of web applications, APIs, and enterprise systems. I have a strong background in requirement analysis, test planning, execution, and defect tracking, ensuring high-quality and reliable software delivery. ✨
 
-I specialize in ensuring software quality through **manual testing, test automation, API testing, performance testing, and security testing**.  
-Experienced in collaborating with cross-functional teams to deliver reliable and scalable systems.
+## What I Do
 
----
+🛠 Manual Testing: Create and execute detailed test cases and test scenarios to validate business and technical requirements.  
+🤖 Automated Testing: Develop and maintain UI automation using `Playwright` and `Katalon Studio`.  
+🔍 Defect Tracking: Identify, report, and track bugs using `Mantis`, working closely with developers for timely fixes.  
+🌐 API Testing: Perform API testing using `Postman` to ensure reliable system integration.  
+📊 Performance Testing: Conduct load and performance testing using `JMeter` and `K6`.  
+🛡 Security Testing: Perform basic security testing using `Acunetix` and `OWASP ZAP`.  
+🧩 Integration & UAT: Execute integration testing and support `User Acceptance Testing (UAT)`.  
+📑 Documentation: Create test plans, test cases, SOPs, user manuals, and QA reports.
 
-## 🔍 About Me
+## Skills & Tools
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright)
+![Katalon](https://img.shields.io/badge/Katalon-00B0FF?style=flat&logo=katalon)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6)
+![Acunetix](https://img.shields.io/badge/Acunetix-2E2E2E?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp)
+![QASE](https://img.shields.io/badge/QASE-4F46E5?style=flat)
+![Mantis](https://img.shields.io/badge/Mantis-6E8B3D?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
-- 🎓 Bachelor of Informatics Engineering
-- 💼 Quality Assurance at **PT. Arkamaya**
-- 🏭 Experienced in **enterprise & manufacturing systems** (Toyota ecosystem)
-- 🧠 Detail-oriented, analytical, and collaborative
-- 🚀 Passionate about continuous learning in QA & automation
+- **Manual Testing | Test Automation | Regression Testing**
+- **Playwright | Katalon Studio**
+- **API Testing | RESTful APIs | Web Testing | SQL**
+- **Performance Testing | JMeter | K6**
+- **Security Testing | Acunetix | OWASP ZAP**
+- **Agile | Scrum | Git**
+- **QASE | Mantis | Jira | Trello**
 
----
 
-## 🧪 Testing Expertise
+## Currently Learning
+Enhancing end-to-end automation using `Playwright`.  
+Learning CI/CD integration for automated testing.  
+Exploring OWASP-based security testing practices.
 
-### 🔹 Testing Types
-- Manual Testing  
-- API Testing  
-- Integration & Regression Testing  
-- Performance Testing  
-- Penetration Testing  
-- User Acceptance Testing (UAT)
-
-### 🔹 Tools & Technologies
-- **Automation**: Playwright, Katalon Studio  
-- **API**: Postman  
-- **Performance**: JMeter, K6  
-- **Security**: Acunetix, OWASP ZAP  
-- **Test Management**: QASE  
-- **Bug Tracking**: Mantis  
-- **Project Management**: Jira, Trello  
-- **Database**: MySQL, PostgreSQL  
-- **Design & Docs**: Figma, Canva, Adobe Photoshop  
-
----
-
-## 🏢 Professional Experience
-
-### 💼 Quality Assurance  
-**PT. Arkamaya** (Mar 2023 – Present)
-
-- Collaborate with System Analysts & Project Managers to validate business & technical requirements
-- Create test plans, test cases, and test scenarios using **QASE**
-- Perform functional, API, integration, regression, and performance testing
-- Automate UI testing using **Playwright**
-- Conduct performance testing using **JMeter & K6**
-- Validate data using **SQL queries**
-- Manage defects using **Mantis**
-- Participate in **UAT & production implementation**
-- Create documentation: SOP, user manual, test reports
-- Design mockups & wireframes using **Figma**
-
-#### 🔑 Key Projects
-- **Toyota Motor Manufacturing Indonesia (TMMIN)**
-  - E-Travel
-  - NVCS Digitalization
-  - Part Export Kanban Calculation (KCI)
-  - E-Manifest Expansion
-
-- **Toyota Astra Motor (TAM)**
-  - TTEP
-  - Recruitment Database
-  - Reserve & Replenish Shop-Floor System
-
-- **Toyota Tsusho Nusa Transport (TTNT)**
-  - Transport Management System (TMS)
-
-- **Other Projects**
-  - HRIS Application Development
-  - Personalia 2.0
-  - POS System
-  - SmartFix 2.5 (Service Management System)
-
----
-
-### 📊 Data Analyst  
-**PT. Tirta Utama Abadi** (Jul 2018 – Mar 2023)
-
-- Managed enterprise data storage & security
-- Led a **Data Center team (5 members)**
-- Performed ETL & data preprocessing
-- Built sales dashboards (YTD, MTD, DTD)
-- Analyzed sales growth, GAP, and stock performance
-
----
-
-## 🎓 Education
-
-**Bachelor of Informatics Engineering**  
-Universitas Majalengka  
-🎯 GPA: **3.55**
-
----
-
-## 📜 Certifications
-
-- QA Automation Bootcamp – Arutala Labs (2023)
-- QA Manual Testing with Agile & JIRA – Aakriti (2022)
-- Google Analytics for Beginners – Google (2022)
-- Fundamental SQL – DQLab (2022)
-- R for Data Science – DQLab (2022)
-- Data Science & Machine Learning with Python – Baba Studio
-- Storytelling with Data Dashboards – Inovis Academy
-- Junior Graphic Designer – BNSP
-
----
-
-## 🌐 Portfolio & Links
-
+💌 Let's Connect
+Ask me about Quality Assurance — I’m happy to share insights and experience!  
 - 💼 LinkedIn: https://www.linkedin.com/in/rizqihilman/
 - ✍️ Medium: https://medium.com/@rizqihilmanriyadi
 - 🎨 Behance: https://www.behance.net/rizqihilman
