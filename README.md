@@ -1,4 +1,4 @@
-# Hi 👋, I'm Moh Rizqi Hilman Riyadi!
+# Hi 👋, I'm Rizqi Hilman!
 
 I am a Quality Assurance (QA) Engineer with 2+ years of experience in manual and automated testing of web applications, APIs, and enterprise systems. I have a strong background in requirement analysis, test planning, execution, and defect tracking, ensuring high-quality and reliable software delivery. ✨
 
